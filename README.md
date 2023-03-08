@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=150&section=header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A4AC85&center=true&width=900&lines=FinalProject_letearth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007bff&center=true&width=900&lines=SemiProject_TAISO" alt="Typing SVG" />
 </a>
 
 ## 📢 Introduction
-- 제로웨이스트 기반 크라우드 펀딩 웹사이트 구현
+- 렌트카 예약 사이트 
 - 🚙[타이소 TAISO](http://itwillbs2.cafe24.com/project_taiso/ReservationMain.rez)🚙바로가기
 
 
