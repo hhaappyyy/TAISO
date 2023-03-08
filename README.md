@@ -6,7 +6,7 @@
 
 ## 📢 Introduction
 - 제로웨이스트 기반 크라우드 펀딩 웹사이트 구현
-- 🍃[렛어스(letearth)](http://letearth.shop/main/all)🍃바로가기
+- 🍃[렛어스(letearth)](http://letearth.shop/main/all](http://itwillbs2.cafe24.com/project_taiso/ReservationMain.rez)🍃바로가기
 
 
 ![image](https://user-images.githubusercontent.com/118797686/216546787-14caf1bb-ff12-443f-8d54-fbf8d7bc08f4.png)
