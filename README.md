@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B6AD90&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=150&section=header" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A4AC85&center=true&width=900&lines=FinalProject_letearth" alt="Typing SVG" />
@@ -10,7 +10,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/118797686/216546787-14caf1bb-ff12-443f-8d54-fbf8d7bc08f4.png)
-![Asset 6@4x](https://user-images.githubusercontent.com/104381321/223708177-731ecb87-3012-4961-bcc3-099daa183ff9.PNG)
 
 
 ### 　　　
