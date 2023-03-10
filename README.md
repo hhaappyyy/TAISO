@@ -7,7 +7,6 @@
 ## 📢 Introduction
 - 렌트카 예약 사이트 
 - 🚙[타이소 TAISO](http://itwillbs2.cafe24.com/project_taiso/ReservationMain.rez)🚙바로가기
-- 
 ![스크린샷 2023-03-10 오후 4 14 53](https://user-images.githubusercontent.com/104381321/224248968-c13b668f-ff66-4307-a73f-04ddb18a0d48.png)
 
 ### 　　　
@@ -21,15 +20,7 @@
 ### Cowork&Development tools used : 
 <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-plastic&logo=Spring&logoColor=white"/>   <img src="https://img.shields.io/badge/KakaoOven-FFCD00?style=flat-plastic&logo=Kakao&logoColor=white"/>   <img src="https://img.shields.io/badge/ERDcloud-937BF2?style=flat-plastic&logo=ERDcloud&logoColor=white"/>   <img src="https://img.shields.io/badge/Git-F05032?style=flat-plastic&logo=Git&logoColor=white"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white"/>   <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat-plastic&logo=Google Sheets&logoColor=white"/>   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-plastic&logo=Slack&logoColor=white"/>   <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-plastic&logo=Google Meet&logoColor=white"/>   
 
-
 ### 　　　
-### 　
-
-## 👯 팀원 소개
-![image](https://user-images.githubusercontent.com/118797686/216547863-4b32aeb3-7e10-41f9-80d0-895e5616d0ad.png)
-
-### 　　　
-
 ### 　
 
 ## 📅 개발 일정
@@ -40,9 +31,10 @@
 
 ## 📊 E-R Diagram
 
-![스크린샷 2023-03-10 오후 4 16 14](https://user-images.githubusercontent.com/104381321/224249030-80f4745c-d61e-4f40-83a2-96aa9d3e4ec4.png)
-![스크린샷 2023-03-10 오후 4 15 57](https://user-images.githubusercontent.com/104381321/224249036-db351b09-f257-4e00-ad68-c1791dd80b23.png)
 ![스크린샷 2023-03-10 오후 4 15 38](https://user-images.githubusercontent.com/104381321/224249042-e463dbc5-14ae-4ed5-b83a-b72d85ecf625.png)
+![스크린샷 2023-03-10 오후 4 15 57](https://user-images.githubusercontent.com/104381321/224249036-db351b09-f257-4e00-ad68-c1791dd80b23.png)
+![스크린샷 2023-03-10 오후 4 16 14](https://user-images.githubusercontent.com/104381321/224249030-80f4745c-d61e-4f40-83a2-96aa9d3e4ec4.png)
+
 
 ### 　　
 ### 　　　　　
@@ -55,12 +47,12 @@
 
 ## 💻 협업 도구　
 > ### 1. 슬랙/카카오오븐
-![KakaoTalk_20230203_175527166](https://user-images.githubusercontent.com/118797686/216893123-68101849-aca9-46dd-8fa7-1c973d778c07.png)
+![스크린샷 2023-03-08 오후 10 40 13](https://user-images.githubusercontent.com/104381321/224249355-ca6cd5ac-f9f2-4e46-9b5e-41688f262d26.png)
 ### 　
-> ### 2. 깃허브/요구사항정의서 [바로가기](https://docs.google.com/spreadsheets/d/1ORegfpn04ZWk9H5nrkABw1Gpf_AUyKhHPssgZvun6uY/edit?pli=1#gid=1325078952)
-![KakaoTalk_20230203_180035263](https://user-images.githubusercontent.com/118797686/216893146-58a101ce-8633-4307-bf15-3502eeaade2f.png)
-### 　　　
-
+> ### 2. 구조명세서/요구사항정의서 [바로가기](https://docs.google.com/spreadsheets/d/1QtAqQH0A_m7-ze3XhSkfsWuaNlpo1l9SFScPLc-R-X4/edit#gid=554889087)
+![스크린샷 2023-03-08 오후 10 44 11](https://user-images.githubusercontent.com/104381321/224250024-8a03ed6a-c293-4da9-91b0-00373d13da57.png)
+![스크린샷 2023-03-08 오후 10 43 56](https://user-images.githubusercontent.com/104381321/224249626-71aec460-c1c6-4048-a79d-14554db5d4bc.png)
+###
 ### 　　　　
 
 ## 👩‍💻 주요 기능 
