@@ -39,30 +39,27 @@
 ### 　
 
 ## 📅 개발 일정
-![image](https://user-images.githubusercontent.com/118797686/216546843-3c152274-7181-47b9-99e7-b5a1705e5f1d.png)
+![스크린샷 2023-03-08 오후 10 44 43](https://user-images.githubusercontent.com/104381321/224247830-572c0ff8-62db-4974-9191-399940e7732a.png)
 
-![스크린샷 2023-03-08 오후 10.40.13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/576bd6cb-c415-451c-93dd-d05f521ba630/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.40.13.png)
-
-![스크린샷 2023-03-08 오후 10.40.42.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/289b88d4-a304-4ae3-951a-22b563cec04c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.40.42.png)
-
-![스크린샷 2023-03-08 오후 10.43.56.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e0dd612-4f12-40bc-b5b8-138f8d555a3f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.43.56.png)
-
-![스크린샷 2023-03-08 오후 10.44.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ff02c00-bd47-42c4-bc35-9acb9b548c8d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.44.28.png)
-
-![스크린샷 2023-03-08 오후 10.44.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2989fe6-72e9-4d1f-b49b-1346af2ccef3/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.44.11.png)
-
-![스크린샷 2023-03-08 오후 10.44.43.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4f4ccf1-5e81-4000-96dd-17c6659149b6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-08_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.44.43.png)
 
 ### 　　　
 
 ### 　　　
 
 ## 📊 E-R Diagram
+
 ![image](https://user-images.githubusercontent.com/118797686/216549254-320c11d3-ff96-4d64-a9ba-bc7d39e710f5.png)
 
 ### 　　
 
-### 　　　
+### 　　　　　
+
+## 📊 유스케이스
+![스크린샷 2023-03-08 오후 10 43 15](https://user-images.githubusercontent.com/104381321/224248059-f305ed8f-0ad5-4cd7-905e-3fd02ce9355a.png)
+
+### 　　
+
+### 　　
 
 ## 💻 협업 도구　
 > ### 1. 슬랙/카카오오븐
