@@ -79,4 +79,4 @@
 
 ### 　　
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B6AD90&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=150&section=footer" />
