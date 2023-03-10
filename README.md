@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=150&section=header&width=100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007bff&center=true&width=900&lines=SemiProject_TAISO" alt="Typing SVG" />
